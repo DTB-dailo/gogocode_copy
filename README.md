@@ -1,7 +1,7 @@
 # GOGOCODE
 
 > iView3 转换示例项目已转移至独立仓库：https://github.com/gogocodeio/ViewUI/tree/vue3
-全网最简单易上手，可读性最强的 AST 处理工具！
+全网最简单易上手，可读性最强的 AST 处理工具！代码转换从未如此简单！！！！
 
 官网：https://gogocode.io
 
@@ -142,7 +142,7 @@ $(code)
 ### .parents()
 获取所有父节
 
-### .root2()
+### .root()
 获取根节点，对于js来说是`type`为'File'的节点，对于html来说是`nodeType`为'document'的节点
 通常对AST进行操作之后需要获取root元素之后再输出
 
